@@ -2,3 +2,4 @@
 깃허브 데스크톱 연습
 
 - fetch test
+- publish test
